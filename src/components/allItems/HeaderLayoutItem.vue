@@ -21,6 +21,7 @@
 
         <div class="header-brand">
           <h1 class="site-title">
+            <img :src='logoImg' alt="logo" width="60px"  class="rounded-lg" />
             <span class="highlight-text">HOKIMIYATUZ</span>
           </h1>
           <div class="live-indicator">
@@ -152,7 +153,7 @@
 
 <script setup>
 import { ref } from 'vue'
-
+import logoImg from '@/assets/logo.jpg'
 // Secondary news data
 const secondaryNews = ref([
   {
@@ -190,7 +191,6 @@ const secondaryNews = ref([
   },
 ])
 
-// Live news items
 const liveNewsItems = ref([
   {
     id: 1,
@@ -321,7 +321,7 @@ const trendingTopics = ref([
 }
 
 .highlight-text {
-  background: linear-gradient(45deg, #ffeb3b, #ff9800);
+  background: linear-gradient(45deg, #181ebc, #0d0f59, #0910a1);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
