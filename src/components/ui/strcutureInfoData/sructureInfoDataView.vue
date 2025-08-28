@@ -257,13 +257,12 @@ export default {
       selectedArticle: null,
 
       featuredNews: {
-        title: 'Ochiqlik va shaffoflik korrupsiyaga qarshi kurashishning muhim vositalaridan biri',
+        title: 'Donbass aholisi "Trump tinchligi"ga ishonmayapti',
         excerpt:
-          'Davlat hokimiyati organlarining jamoatchillik oldidagi ochiqlik va shaffofligi bugungi kunning eng dolzarb muammolaridan...',
-        image:
-          'https://tashkent.uz/_next/image?url=https%3A%2F%2Fapi.tashkent.uz%2Fupload%2Fnews%2Fspeaking%2F2025%2F06%2Fshuhrat.jpg&w=640&q=75',
+          'DW muxbirining hududdan tayyorlagan reportajiga ko‘ra, Donetsk viloyatidagi janglar fonida Trumpning "tinchlik tashabbusi"ga ishonch kamaymoqda....',
+        image: 'https://api.darakchi.uz/media/news_preview/2025/08/28/IMG_6018.medium.webp',
         date: '20.06.2025, 09:46',
-        views: '2.5k',
+        views: '4.5k',
       },
 
       trendingNews: [
@@ -294,16 +293,16 @@ export default {
 
       newsArticles: [
         {
-          title:
-            'Toshkent shahar hokimi Shavkat Umurzakov Malis Group kompaniyasi bosh direktori bilan uchrashdi',
+          title: 'Prezident Shavkat Mirziyoyev O‘zbekiston Milliy muzeyiga tamal toshi qo‘ydi',
           excerpt:
-            'Toshkent shahar hokimi Shavkat Umurzakov Malis Group kompaniyasi bosh direktori Yaman Shahin va Pasha Real Estate Group...',
+            "Ushbu majmua mamlakatimiz tarixida ilk bor bunyod etilayotgan eng yirik muzeylardan biri bo'ladi.\n" +
+            '\n...',
           image:
             'https://tashkent.uz/_next/image?url=https%3A%2F%2Fapi.tashkent.uz%2Fupload%2Fnews%2Fspeaking%2F2025%2F06%2Fshuhrat.jpg&w=640&q=75',
           category: 'Siyosat',
-          date: '12.06.2025, 14:12',
+          date: '25.08.2025, 14:12',
           content:
-            'Toshkent shahar hokimi Shavkat Umurzakov Malis Group kompaniyasi bosh direktori Yaman Shahin va Pasha Real Estate Group vakillari bilan uchrashdi. Uchrashuv davomida investitsion loyihalar va shaharsozlik masalalari muhokama qilindi...',
+            '27 avgust kuni Toshkentda o‘tkazilgan marosimda Prezident Shavkat Mirziyoyev O‘zbekiston Milliy muzeyi qurilishiga rasmiy asos soldi. Ushbu majmua mamlakat tarixida ilk bor bunyod etilayotgan eng yirik muzeylardan biri bo‘ladi...',
         },
         {
           title:
@@ -311,7 +310,7 @@ export default {
           excerpt:
             'Toshkent shahar hokimi Shavkat Umurzakov Italiyaning Lombardiya viloyati gubernatori Attilio Fontana boshchiligidagi delegatsiya bilan uchrashdi...',
           image:
-            'https://tashkent.uz/_next/image?url=https%3A%2F%2Fapi.tashkent.uz%2Fupload%2Fnews%2Fspeaking%2F2025%2F06%2Fshuhrat.jpg&w=640&q=75',
+            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZl8P98mSzxOKClt5ShiTzePdgZRClepivUg&s',
           category: 'Xalqaro',
           date: '11.06.2025, 15:37',
           content:
@@ -323,7 +322,7 @@ export default {
           excerpt:
             "Joriy yilning 13-18 aprel kunlari O'zbekiston delegatsiyasi Amerika Qo'shma Shtatlariga tashrifi doirasida 'Starta VC' kompaniyasi bilan uchrashdi...",
           image:
-            'https://tashkent.uz/_next/image?url=https%3A%2F%2Fapi.tashkent.uz%2Fupload%2Fnews%2Fspeaking%2F2025%2F06%2Fshuhrat.jpg&w=640&q=75',
+            'https://www.gazeta.uz/media/img/2023/09/ArGoPC16944052965319_b.jpg',
           category: 'Biznes',
           date: '18.06.2025, 15:02',
           content:
@@ -334,7 +333,7 @@ export default {
           excerpt:
             "Hurmali fuqarolar! Yashnobod tumani hokimi Abdullah Qodiriy ko'chasining bir qismini qayta nomlash orgali unga Mustafa Kamol...",
           image:
-            'https://tashkent.uz/_next/image?url=https%3A%2F%2Fapi.tashkent.uz%2Fupload%2Fnews%2Fspeaking%2F2025%2F06%2Fshuhrat.jpg&w=640&q=75',
+            'https://www.gazeta.uz/media/img/2020/08/HzfBO015983806792894_l.jpg',
           category: 'Mahalliy',
           date: '05.06.2025, 17:28',
           content:

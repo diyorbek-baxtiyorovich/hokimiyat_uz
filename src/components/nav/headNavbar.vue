@@ -14,8 +14,8 @@ const languageMenu = ref(false)
         <!-- Left side - Brand and social icons -->
         <div class="d-flex align-center text-white">
           <v-icon size="24" class="mr-2">mdi-city</v-icon>
-          <span class="font-weight-bold d-none d-sm-inline">Hokimiyat</span>
-          <span class="font-weight-bold d-sm-none">H</span>
+          <span class="font-weight-bold d-none d-sm-inline">HokimiyatUz</span>
+          <span class="font-weight-bold d-sm-none">HokimiyatUz</span>
 
           <!-- Social icons - hidden on mobile -->
           <div class="d-none d-md-flex align-center ml-4">

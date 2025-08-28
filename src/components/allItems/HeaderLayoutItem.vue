@@ -21,7 +21,7 @@
 
         <div class="header-brand">
           <h1 class="site-title">
-            <span class="highlight-text">HOKIMIYAT</span>
+            <span class="highlight-text">HOKIMIYATUZ</span>
           </h1>
           <div class="live-indicator">
             <div class="pulse-dot"></div>
@@ -166,8 +166,7 @@ const secondaryNews = ref([
   {
     id: 2,
     title: "Uzbekistondagi 4 ta pedagogika oliy yuqori ta'lim muassasasi tasdiqlandi",
-    image:
-      "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='120'%3E%3Crect width='200' height='120' fill='%23f3e5f5'/%3E%3Ctext x='50%25' y='50%25' font-size='12' fill='%23666' text-anchor='middle' dominant-baseline='middle'%3ETa'lim%3C/text%3E%3C/svg%3E",
+    image: 'https://static.abt.uz/crop/600__62ddbfb653349.jpg',
     category: "Ta'lim",
     time: '20:44',
     views: '5.1K',
@@ -175,8 +174,7 @@ const secondaryNews = ref([
   {
     id: 3,
     title: 'Xitoyning Xubey provinsiyasida sotuvchilar va kurtkchilar urtasida katta mojaro',
-    image:
-      "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='120'%3E%3Crect width='200' height='120' fill='%23fff3e0'/%3E%3Ctext x='50%25' y='50%25' font-size='12' fill='%23666' text-anchor='middle' dominant-baseline='middle'%3EXalqaro%3C/text%3E%3C/svg%3E",
+    image: 'https://storage.kun.uz/source/02.07.2016chi1.jpg',
     category: 'Xalqaro',
     time: '19:30',
     views: '3.8K',
@@ -185,7 +183,7 @@ const secondaryNews = ref([
     id: 4,
     title: 'Yangi iqtisodiy islohotlar davlat xaridlari tizimida amalga oshirildi',
     image:
-      "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='120'%3E%3Crect width='200' height='120' fill='%23e1f5fe'/%3E%3Ctext x='50%25' y='50%25' font-size='12' fill='%23666' text-anchor='middle' dominant-baseline='middle'%3EIqtisod%3C/text%3E%3C/svg%3E",
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MRjNX9k2RuuKDdSy3CPhzNCKn4d4DjfW0g&s',
     category: 'Iqtisodiyot',
     time: '18:15',
     views: '6.7K',
@@ -197,9 +195,9 @@ const liveNewsItems = ref([
   {
     id: 1,
     time: '20:45',
-    title:
-      'Tataristonda raxbariy "rus tilini bilmaydiganlar chet ellik bolalarni maktabga qabul qilishni taqiqlash" qarori tanqid qilindi',
-    content: 'Rossiya Federatsiyasi Tatarison Respublikasida...',
+    title: 'Qirgʻizistondan noqonuniy olib kiritilgan 19 kg tilla Fargʻonada ushlandi',
+    content:
+      "Qo'shni mamlakatan noqonuniy ravishda olib kiritilgan qiyimi taxminan 20 mlrd so'm bo'lgan tilla zargarlik buyumlari davlat chegarasida to'xtatib qolindi.",
   },
   {
     id: 2,
